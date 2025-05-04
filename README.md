@@ -35,8 +35,6 @@ A modern web application for managing and browsing apartment listings. Built wit
 ## Prerequisites
 
 - Docker and Docker Compose
-- Node.js (v18 or higher) - for local development
-- npm
 
 ## Getting Started
 
