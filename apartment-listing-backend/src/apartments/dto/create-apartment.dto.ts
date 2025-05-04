@@ -54,7 +54,6 @@ export class CreateApartmentDto {
   description: string;
 
   @ApiProperty({ example: 'https://example.com/images/apartments/apartment.jpg', description: 'Image URLs', required: true })
-  @IsArray()
   @IsString()
   @IsOptional()
   imageUrl: string;
