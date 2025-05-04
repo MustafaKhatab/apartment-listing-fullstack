@@ -74,3 +74,9 @@ The project uses Docker Compose to manage three services:
 - Frontend (Next.js)
 - Backend (NestJS)
 - MongoDB
+
+## Database Seeding
+
+The project includes a seed script to populate the database with sample apartment data. That runs automatically
+
+This will populate the database with sample apartment listings for testing and development purposes.
